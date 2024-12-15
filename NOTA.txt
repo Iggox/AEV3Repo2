@@ -1,0 +1,6 @@
+NOTA: 9.25
+
+- La entidad Nómina es entidad débil de identificación de le entidad Empleados.
+
+
+
